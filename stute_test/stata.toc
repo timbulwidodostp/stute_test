@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p stute_test Stute (1997) linearity test Use stute_test With STATA 18
