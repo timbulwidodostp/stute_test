@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'stute_test': Stute (1997) linearity test Use stute_test With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f stute_test.ado
+f stute_test.sthlp
