@@ -1,6 +1,8 @@
 # stute_test
 Stute (1997) linearity test Use stute_test With STATA 18
 
+https://www.youtube.com/watch?v=7V3cZnyNPv8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
